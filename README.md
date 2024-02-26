@@ -1,2 +1,2 @@
-# C-lculo-Num-rico
+# Calculo-Numerico
 Repositório para disciplina de cálculo 1, códigos, anotações, etc...
